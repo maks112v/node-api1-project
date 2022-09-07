@@ -42,6 +42,7 @@ Each User _resource_ should conform to the following structure (AKA schema):
 }
 ```
 
+
 #### Database Access Functions
 
 You can find them inside `api/users/model.js`. All of these functions return Promises.
